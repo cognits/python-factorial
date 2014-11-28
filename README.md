@@ -5,17 +5,15 @@ Usted ya sabe que es posible llamar de alguna parte del código de Python a una 
 
 La meta en este proyecto es que cree un programa que calcule el factorial de un número usando la recursión. 
 
-```
-Nota: Es importante que entiendas que es recursión ya que te puede 
-llegar a ser útil mientras realizas tus proyectos.
-```
+      Nota: Es importante que entiendas que es recursión ya que te puede 
+      llegar a ser útil mientras realizas tus proyectos.
 
 
 ## Conceptos Requeridos
 
-1.  Recursión
-2.  Documentación
-3.  Funciones
+      1.  Recursión
+      2.  Documentación
+      3.  Funciones
 
 
 
